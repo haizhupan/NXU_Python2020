@@ -1,2 +1,3 @@
-# NXU_Python2020
-Python  Course for MSc students in NXU
+# 宁夏大学·西部生态中心，研究生课程：生态学与研究方法--Python
+
+
